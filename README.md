@@ -1,6 +1,6 @@
 ## Installation
 
-After downloading the project folder, simple open it in a localhost environment. For quick set up, make sure python 3 is installed on your local machine, navigate to the project root directory and run the following command:
+After downloading and unzipping the project folder, simply open it in a localhost environment. For quick set up, make sure python 3 is installed on your local machine, navigate to the project root directory and run the following command:
 
 ```bash
 python -m http.server 8000
